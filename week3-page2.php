@@ -28,7 +28,7 @@ else{
 if($gender=="male"){
     echo "您的性別是:男性<br/>";
 }
-else if($gender=="female"){ 
+elseif($gender=="female"){ 
     echo "您的性別是:女性 <br/>";
 }
 else{
